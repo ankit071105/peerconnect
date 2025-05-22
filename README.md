@@ -2,16 +2,6 @@
 
 *A dedicated platform for students to connect, collaborate, and grow together*
 
-## 📌 Table of Contents
-- [About The Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
-- [APK Download](#-apk-download)
-- [Setup Instructions](#-setup-instructions)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Team](#-team)
 
 ## 🌟 About The Project
 PeerConnect solves the critical challenge students face in finding like-minded peers for academic collaborations. Unlike generic social networks, it offers:
