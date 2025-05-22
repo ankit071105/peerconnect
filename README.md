@@ -1,6 +1,5 @@
 # PeerConnect - Student Networking Platform
 
-![PeerConnect Banner](https://i.imgur.com/JfQq3Nl.png)  
 *A dedicated platform for students to connect, collaborate, and grow together*
 
 ## 📌 Table of Contents
@@ -43,12 +42,6 @@ Built during 10X Sumer Hack 1.0, this platform bridges the gap between students 
 **AI Integration**  
 ![Gemini](https://img.shields.io/badge/Gemini-412991?style=for-the-badge&logo=&logoColor=white)
 
-
-## 📱 Screenshots
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Signup]() | ![Discover]() | ![Chat]() |
-| *Onboarding Flow* | *Peer Discovery* | *Real-time Messaging* |
 
 ## 📥 APK Download
 Test PeerConnect on your Android device:  
