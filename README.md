@@ -52,7 +52,7 @@ Built during 10X Sumer Hack 1.0, this platform bridges the gap between students 
 
 ## 📥 APK Download
 Test PeerConnect on your Android device:  
-[Download APK v1.0](https://drive.google.com/your-apk-link-here)  
+[Download APK v1.0](https://drive.google.com/drive/folders/1IwIrLRAU3Z4xGs9q0nE7r3DSTqfpZnZK?usp=sharing)  
 *(Minimum Android 8.0 required)*
 
 ## 🚀 Setup Instructions
